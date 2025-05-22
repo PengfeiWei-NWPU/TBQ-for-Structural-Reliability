@@ -4,7 +4,7 @@ Interested readers may run these programs to replicate the calculations for the 
 
 Mean estimate of pf（using bridging）： 0.00000734                                   
 Mean estimate of pf（without bridging）： 0.00000727                                                                                           
-Reference value of pf： 0.00000668                                           
+Reference value of pf： 0.00000709                                           
 CoV of pf estimate： 0.0494                                             
 Number of model calls： 83                                                                           
 gamma values:0.0000  1.3663  2.3340  3.9271  Inf                                                          
