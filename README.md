@@ -2,8 +2,8 @@ These two MATLAB programs implement the two TBQ algorithms presented in the foll
 
 Interested readers may run these programs to replicate the calculations for the second numerical example (two-dimensional series system) in the paper. The output results of the algorithm are as follows:
 
-Mean estimate of pf（using bridging）： 0.00000734
-Mean estimate of pf（without bridging）： 0.00000727
+Mean estimate of pf（using bridging）： 0.00000734                                   
+Mean estimate of pf（without bridging）： 0.00000727                                                                                           
 Reference value of pf： 0.00000668
 CoV of pf estimate： 0.0494
 Number of model calls： 83.0000
